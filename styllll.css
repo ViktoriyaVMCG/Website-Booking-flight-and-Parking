@@ -1,0 +1,64 @@
+.btn-def {
+  background-color: purple;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ 
+}
+
+.control3{
+	height:30px;
+	width:150px;
+	margin-left:40px;
+	border-radius: 4px;
+	border-color:purple;
+	text-align:center;
+	font-size:15px;
+	
+}
+ .center{
+	margin-left:40%;
+	 font-size:20px;
+ }
+ 
+ .button {
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left:40%;
+}
+
+.button:hover {
+  background-color: blue;
+}
+
+ .buttons {
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left:40%;
+  width: 120px;
+}
+
+.buttons:hover {
+  background-color: blue;
+}
